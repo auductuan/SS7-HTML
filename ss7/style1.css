@@ -1,0 +1,53 @@
+.all{
+    width: 200px;
+    position: relative;
+    height: 200px;
+    background-color: grey;
+    border-radius: 30%;
+}
+img{
+    width: 50px;
+    position: absolute;
+    height: 50px;
+    right: 0;
+    margin-right: -10px;
+    margin-top: -5px;
+    border-radius: 70%;
+}
+
+.nofication{
+    width: 200px;
+    position: relative;
+    height: 200px;
+    background-color: grey;
+    border-radius: 30%;
+}
+
+img{
+    width: 50px;
+    position: absolute;
+    height: 50px;
+    right: 0;
+    margin-right: -10px;
+    margin-top: -5px;
+    border-radius: 50%;
+}
+
+.abc{
+    width: 200px;
+    position: relative;
+    height: 200px;
+    background-color: grey;
+    border-radius: 30%;
+}
+
+img{
+    width: 50px;
+    position: absolute;
+    height: 50px;
+    right: 0;
+    margin-right: -10px;
+    margin-top: -5px;
+    border-radius: 70%;
+}
+

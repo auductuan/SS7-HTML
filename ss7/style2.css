@@ -1,0 +1,11 @@
+.all{
+width: 220px;
+border: 1px solid #00000014;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 10%;
+    object-fit: cover;
+}
